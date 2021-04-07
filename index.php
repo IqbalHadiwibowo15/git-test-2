@@ -11,7 +11,12 @@
 <body>
     <h1>Belajar Git Remote</h1>
 
-    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam soluta eveniet voluptatum ut itaque voluptatibus temporibus provident dolorum optio quos sint vel mollitia impedit, dolores sunt nemo aperiam est eos.</p>
+    <p>Mempelajari cara kerja pada Git Remote</p>
+
+    <ul>
+        <li> M. Iqbal Hadiwibowo </li>
+        <li> 1700018101 </li>
+    </ul>
 </body>
 
 </html>
