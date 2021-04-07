@@ -10,6 +10,8 @@
 
 <body>
     <h1>Belajar Git Remote</h1>
+
+    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam soluta eveniet voluptatum ut itaque voluptatibus temporibus provident dolorum optio quos sint vel mollitia impedit, dolores sunt nemo aperiam est eos.</p>
 </body>
 
 </html>
